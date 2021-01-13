@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on buy-cars-front
+- 🔭 I’m currently working on buy-cars-front and my-bank-php
 - 🌱 I’m currently learning React, JS and PHP
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with API
