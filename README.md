@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on react-bank
 - 🌱 I’m currently learning React, JS and PHP
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with API
+- 🤔 I’m looking for help with Node JS
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
