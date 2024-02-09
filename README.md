@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Cars Register
 - 🌱 I’m currently learning UX/UI, React and Node
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with MySQL
+- 🤔 I’m looking for help with Docker
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
