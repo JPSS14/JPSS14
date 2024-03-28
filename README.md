@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 📫 My [ portfolio ](https://jpss14.github.io/portfolio/index.html)!
-- 🔭 I’m currently working on Cars Register
+- 🔭 I’m currently working on Remake MyPortfolio
 - 🌱 I’m currently learning UX/UI, Next and Node
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Docker
