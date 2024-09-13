@@ -1,9 +1,14 @@
-<!-- <style>
+<style>
   .logo{
     filter: drop-shadow(#fff 1px 1px 1px)
             drop-shadow(#fff -1px -1px 1px)
   }
-</style>   -->
+
+  .streak__container{
+    display: block;
+    filter: drop-shadow(#000 0px 2px 1px);
+  }
+</style>
 
 ### Hello there 👋
 
@@ -28,8 +33,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: STAR WARS is incredible!
 
 <!-- #54daf8-->
+<div class="streak__container">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jpss14&background=000&ring=D93D04&currStreakNum=D91111&sideNums=54daf8&border=54daf8&stroke=46B4CD&dates=fff&sideLabels=46B4CD)](https://git.io/streak-stats)
+
+</div>
+
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpss14)
