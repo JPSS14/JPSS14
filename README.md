@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpss14)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpss14&bg_color=000&title_color=54daf8&icon_color=54daf8&border_color=54daf8&show_icons=true&text_color=fff)
 <br/>
 
 <!--
