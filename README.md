@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <!-- #54daf8-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jpss14&background=000&ring=D93D04&currStreakNum=D91111&sideNums=54daf8&border=54daf8&stroke=46B4CD&dates=fff&sideLabels=46B4CD)](https://git.io/streak-stats)
-
 <br/>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpss14&bg_color=000&title_color=54daf8&icon_color=54daf8&border_color=54daf8&show_icons=true&text_color=fff)
 <br/>
 
