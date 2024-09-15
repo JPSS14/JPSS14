@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 📫 My [ portfolio ](https://jpss14-portfolio.vercel.app/)!
 - 🔭 I’m currently working on Remake MyPortfolio
-- 🌱 I’m currently learning UX/UI, Next and Node
+- 🌱 I’m currently learning Angular
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Java
   <!-- - 💬 Ask me about ... -->
