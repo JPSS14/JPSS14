@@ -1,3 +1,5 @@
+![all-projects](https://github.com/user-attachments/assets/543e7c1a-4f05-4973-b992-2bf1e9e24eae)
+
 ### Hello there 👋
 
 <!-- <img src="https://github.com/user-attachments/assets/711750ea-6b62-4f0f-b6fc-7b68fcc56371" class="logo"> -->
@@ -13,11 +15,11 @@ Here are some ideas to get you started:
 - 📫 My [ portfolio ](https://jpss14-portfolio.vercel.app/)!
 - 🔭 I’m currently working on Remake MyPortfolio
 - 🌱 I’m currently learning Angular and Java
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with Java -->
-  <!-- - 💬 Ask me about ... -->
-  <!-- - 📫 How to reach me: ... -->
-  <!-- - 😄 Pronouns: ... -->
+  <!-- - 👯 I’m looking to collaborate on ... -->
+  <!-- - 🤔 I’m looking for help with Java -->
+    <!-- - 💬 Ask me about ... -->
+    <!-- - 📫 How to reach me: ... -->
+    <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: STAR WARS is incredible!
 
 <!-- #54daf8-->
