@@ -10,7 +10,7 @@
     <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: STAR WARS is incredible!
 
-![AllProjects(1)](https://github.com/user-attachments/assets/c334ea6a-5369-4650-b629-9bcf37f364fd)
+<img src="https://github.com/user-attachments/assets/c334ea6a-5369-4650-b629-9bcf37f364fd" width="500px">
 
 <!-- <img src="https://github.com/user-attachments/assets/711750ea-6b62-4f0f-b6fc-7b68fcc56371" class="logo"> -->
 <!-- ![Cars Register(1)](https://github.com/user-attachments/assets/711750ea-6b62-4f0f-b6fc-7b68fcc56371) -->
