@@ -11,6 +11,11 @@
 <!-- - ⚡ Fun fact: STAR WARS is incredible! -->
 
 <p align="center">
+  <a href="https://jpss14-portfolio.vercel.app/" target="_blank"/>
+<img src="https://github.com/user-attachments/assets/76e47ed9-37fb-48ca-9624-279ca3eef92f" width="500px"/>
+  </a>
+</p>
+<p align="center">
 <img src="https://github.com/user-attachments/assets/c334ea6a-5369-4650-b629-9bcf37f364fd" width="500px">
 </p>
 
